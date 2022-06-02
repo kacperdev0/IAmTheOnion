@@ -4,7 +4,7 @@
 
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmTheOnion)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <br/>   
 
@@ -14,8 +14,3 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IAmTheOnion&&style=flat-square" align="center" />
-</div>  
-
-<br />
