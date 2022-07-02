@@ -1,2 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTheOnion&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=CooBula&badge&colormode=dark_mode)]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmTheOnion&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmTheOniona&repo=convoychat" />
+</a>
