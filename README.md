@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity" alt="unity Badge" height="25">&nbsp;
-
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="unity Badge" height="25">&nbsp;
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IAmTheOnion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
