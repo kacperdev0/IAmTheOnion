@@ -1,4 +1,5 @@
 ## Tech Stack
+<div id="header" align="center">
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
@@ -11,11 +12,13 @@
 <img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity" alt="unity Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="unity Badge" height="25">&nbsp;
+</div>
 
 # 📊 GitHub Stats:
+<div id="header" align="center">
 ![](https://github-readme-stats.vercel.app/api?username=IAmTheOnion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmTheOnion&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTheOnion&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=css,html)
+</div>
 
----
 [![](https://visitcount.itsvg.in/api?id=IAmTheOnion&icon=0&color=0)](https://visitcount.itsvg.in)
