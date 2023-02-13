@@ -2,7 +2,7 @@
   <img src="http://www.reactiongifs.com/r/2012/11/bonkers.gif" width="200"/>
   
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/kacper-o%C5%82dziejewski-6a3194266">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
