@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/KacperDev)
+![](https://leetcard.jacoblin.cool/KacperDev?ext=heatmap)
